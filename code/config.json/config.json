@@ -46,9 +46,6 @@
   "html.autoClosingTags": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
-  "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
   "explorer.confirmDragAndDrop": false,
   /* Eslint */
   "javascript.format.enable": false,
