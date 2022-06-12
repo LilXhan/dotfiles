@@ -68,10 +68,6 @@
   "emmet.includeLanguages": {
     "javascript": "html"
   },
-  /* FileTypes */
-  "emmet.includeLanguages": {
-    "javascript": "html"
-  },
   /* Extensions */
   "indentRainbow.colors": [
     "rgba(0, 0, 0, 0.5)",
